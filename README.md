@@ -1,4 +1,4 @@
-<h2 align="center">Hey there 👋, I am <b>Phan Quốc Khải Kai(Kai)</b>, a full-stack developer.</h2>
+<h2 align="center">Hey there 👋, I am <b>Phan Quốc Khải (Kai)</b>, a full-stack developer.</h2>
 
 ## About Me
 
