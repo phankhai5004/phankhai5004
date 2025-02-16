@@ -1,4 +1,14 @@
-<h2 align="center">Hey there 👋, I am <b>Phan Quốc Khải (Kai)</b>, a full-stack developer.</h2>
+<h2 align="center">Hey there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, I am <b>Phan Quốc Khải (Kai)</b>, a full-stack developer.</h2>
+
+<p align="center">
+  <a href="mailto:khai.phanquoc1401@gmail.com" >
+    <img align="center" alt="khai.phanquoc1401 | Gmail" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/khaiphanquoc/" target="_blank">
+    <img align="center" alt="khaiphanquoc | Linkedin" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+<p>
 
 ## About Me
 
@@ -8,7 +18,7 @@
 
 - 🌱 I’m currently learning [**Elasticsearch**](https://www.elastic.co/), [**Apache Kafka**](https://kafka.apache.org), and more.
 
-- ✉️ &nbsp;You can shoot me an email at khai.phanquoc1401.com! I'll try to respond as soon as I can.
+- ✉️ You can shoot me an email at [khai.phanquoc1401.com]! I'll try to respond as soon as I can.
 
 ## Tech Stacks
 
