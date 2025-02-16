@@ -1,12 +1,14 @@
-## Hi, This Is Kai
+<h2 align="center">Hey there 👋, I am <b>Phan Quốc Khải Kai(Kai)</b>, a full-stack developer.</h2>
 
-I am Phan Quốc Khải, you can call me Kai and I am a full stack developer passionate about building scalable and efficient applications.
+## About Me
 
 - 💼 I'm looking for intern/fresher software engineering position.
 
-- 🎓 I’m currently junior student at [**Ho Chi Minh University of Technology**](https://hcmut.edu.vn/)
+- 🎓 I’m currently junior computer science student at [**Ho Chi Minh University of Technology**](https://hcmut.edu.vn/)
 
 - 🌱 I’m currently learning [**Elasticsearch**](https://www.elastic.co/), [**Apache Kafka**](https://kafka.apache.org), and more.
+
+- ✉️ &nbsp;You can shoot me an email at khai.phanquoc1401.com! I'll try to respond as soon as I can.
 
 ## Tech Stacks
 
