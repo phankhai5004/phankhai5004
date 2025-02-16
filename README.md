@@ -1,4 +1,4 @@
-<h2 align="center">Hey there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, I am <b>Phan Quốc Khải (Kai)</b>, a full-stack developer.</h2>
+<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, I am <b>Phan Quốc Khải (Kai)</b>, a full-stack developer.</h2>
 
 <p align="center">
   <a href="mailto:khai.phanquoc1401@gmail.com" >
