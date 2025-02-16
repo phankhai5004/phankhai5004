@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning [**Elasticsearch**](https://www.elastic.co/), [**Apache Kafka**](https://kafka.apache.org), and more.
 
-- ✉️ You can shoot me an email at khai.phanquoc1401.com! I'll try to respond as soon as I can.
+- ✉️ You can shoot me an email at khai.phanquoc1401@gmail.com! I'll try to respond as soon as I can.
 
 ## Tech Stacks
 
