@@ -1,6 +1,6 @@
 <!--## Hi, I'm Phan Quốc Khải-->
 
-## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, I am Phan Quốc Khải <h6>You can call me Kai Phan</h6> <h5> A full stack developer<img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
+## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, I am Phan Quốc Khải <h6>You can call me Kai</h6> <h5> I am a full stack developer</div>
 
 <!--
 **phankhai5004/phankhai5004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
