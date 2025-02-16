@@ -33,9 +33,6 @@ I am Phan Quốc Khải, you can call me Kai and I am a full stack developer pas
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<div align="center">
-  :heart_eyes: Thanks for coming accross my profile! Have a nice day! :wink: <br/>
-</div>
 <!--
 **phankhai5004/phankhai5004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
